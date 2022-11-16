@@ -35,8 +35,8 @@ BankApplication::BankApplication()
 			else cout << "An account was created with ID " << ID << " and Starting Balance " << StartingBalance << " L.E.\n";
 		break;
 	case 2: cout << "------------- " << client.getName () << "---------\n";
-            cout << "Adress: " << client.getAddress () << endl;
-            cout << "Account ID: " << account->getAccountID << "( " << account.getType << " )" << endl;
+            cout << "Adress: " << client.getAddress() << endl;
+            cout << "Account ID: " << account->getAccountID << "( " << account->getType << " )" << endl;
             cout << "Balance: " << account.getBalance << endl;
 	break;
 
