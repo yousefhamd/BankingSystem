@@ -27,6 +27,9 @@
     <ClCompile Include="SavingBankAccountClass.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="BankApplication.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="ClientClass.h">
@@ -36,6 +39,9 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="SavingBankAccountClass.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="BankApplication.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

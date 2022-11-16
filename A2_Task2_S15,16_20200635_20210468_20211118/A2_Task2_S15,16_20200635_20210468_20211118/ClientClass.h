@@ -1,6 +1,7 @@
 #pragma once
 #include "BankAccountClass.h"
 #include <iostream>
+#include <string>
 using namespace std;
 
 class Client

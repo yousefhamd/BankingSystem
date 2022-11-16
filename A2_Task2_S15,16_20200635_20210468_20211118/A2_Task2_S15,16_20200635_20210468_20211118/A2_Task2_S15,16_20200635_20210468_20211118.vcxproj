@@ -153,11 +153,13 @@
   <ItemGroup>
     <ClCompile Include="A2_Task2_S15,16_20200635_20210468_20211118.cpp" />
     <ClCompile Include="BankAccountClass.cpp" />
+    <ClCompile Include="BankApplication.cpp" />
     <ClCompile Include="ClientClass.cpp" />
     <ClCompile Include="SavingBankAccountClass.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="BankAccountClass.h" />
+    <ClInclude Include="BankApplication.h" />
     <ClInclude Include="ClientClass.h" />
     <ClInclude Include="SavingBankAccountClass.h" />
   </ItemGroup>
